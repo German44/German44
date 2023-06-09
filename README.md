@@ -1,4 +1,4 @@
-![Ciber Dog](https://media.giphy.com/media/xULW8vRQrlIPRfiEog/giphy.gif)
+
 
 <h1 align="center">Hi 👋, I'm German</h1>
 <h3 align="center">I am a web development student focused on the front end area and design.</h3>
@@ -14,7 +14,7 @@
 
 
 
-
+![Ciber Dog](https://media.giphy.com/media/xULW8vRQrlIPRfiEog/giphy.gif)
 
 
 
