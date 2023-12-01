@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm German</h1>
-<h3 align="center">I am a web development focused on the front end area and design.</h3>
+<h3 align="center">I am a web development focused on the frontend React area and design.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
